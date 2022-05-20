@@ -26,29 +26,29 @@ const About = () => {
               <h5>Experience</h5>
               <small>Entry Level</small> 
             </article>
-          </div>
-
-          <div className="about__cards">
+            
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
               <small>None</small> 
             </article>
-          </div>
-
-          <div className="about__cards">
+            
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
               <small>20+ Completed Projects</small> 
             </article>
+
+
           </div>
+
           <p>
             I graduated from SMU as a Fullstack Developer the year 2022. I have experience working
             with Mongo DB, Express, React and Node.js. I've also worked with HTML, CSS, JS and Redux.
             I have knowledge in GraphQL and MySQL. I may lack the experience but I do enjoy coding and I will learn
             from my mentors and peers in order to provide the best work I can. 
           </p>
+          <a href="#contact" className='btn btn-primary'>Contact Me</a>
 
         </div>
       </div>
