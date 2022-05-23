@@ -23,15 +23,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Front-End Design and Development</p>
+              <p>Front-End Development</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
               <p>Back-end Development</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p></p>
             </li>
           </ul>
 
