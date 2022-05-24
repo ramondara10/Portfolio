@@ -35,6 +35,20 @@ const Services = () => {
         
         {/*End of Web Development when more skills are acquired you can use the same code to add more in different categories*/}
 
+        <article className="service">
+          <div className="service__head">
+            <h3>UX/UI Design</h3>
+          </div>
+
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p> Certification In Progress</p>
+            </li>
+          </ul>
+        </article>
+
+
       </div>
     </section>
   )

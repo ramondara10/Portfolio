@@ -46,7 +46,8 @@ const About = () => {
             I graduated from SMU as a Fullstack Developer the year 2022. I have experience working
             with Mongo DB, Express, React and Node.js. I've also worked with HTML, CSS, JS and Redux.
             I have knowledge in GraphQL and MySQL. I may lack the experience but I do enjoy coding and I will learn
-            from my mentors and peers in order to provide the best work I can. 
+            from my mentors and peers in order to provide the best work I can. Currently working towards a Google Certificate for
+            UX and UI Design
           </p>
           <a href="#contact" className='btn btn-primary'>Contact Me</a>
 
